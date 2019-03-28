@@ -1,0 +1,137 @@
+body{
+	margin: auto;
+	padding: 10px;
+	font-family: Times;
+}
+h5{
+	font-family: palatino;
+	text-decoration: underline;
+	letter-spacing: 2px;
+}
+h1{
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-family: Times;
+}
+.pd1{
+	background-color: black;
+	color: #fff;
+}
+.pd2{
+	background-color: black;
+}
+.pd3{
+	background-color: #000000cc;
+	color: #fff;
+	padding: 1%;
+	padding-bottom: 2%;
+	padding-top: 2%; 
+}.pd4{
+	background-color: #000000cc;
+	color: #fff;
+	padding: 1%;
+	padding-bottom: 2%;
+	padding-top: 2%;
+}
+.pd5{
+	background-color: #000000cc;
+	color: #fff;
+	padding: 2%;
+	padding-bottom: 5%;
+	padding-top: 2%;
+}
+.pd6{
+	background-color: black;
+	color: #fff;
+	padding: 2%;
+	padding-bottom: 3%;
+	padding-top: 3%;
+}
+.pic1{
+	width: 100%;
+	height: 235px;
+	margin-top: 3%;
+}
+h1:after {
+    content:' ';
+    position: absolute;
+    display:block;
+    width: 60%;
+    margin-top: 1%;
+    border:2px solid darkred;
+    border-radius:4px;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+    -webkit-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+    -moz-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+     
+}
+h3:after {
+    content:' ';
+    position: absolute;
+    display:block;
+    width: 350px;
+    margin-top: 1%;
+    border:2px solid whitesmoke;
+    border-radius:4px;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+    -webkit-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+    -moz-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+     
+}
+.lastheader:after {
+    content:' ';
+    position: absolute;
+    display:block;
+    width: 350px;
+    margin-top:1%;
+    margin-left: -5%;
+    border:2px solid whitesmoke;
+    border-radius:4px;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+    -webkit-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+    -moz-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+     
+}
+
+label{
+	margin-right: 5%;
+	margin-left: 2%;
+	letter-spacing: 2px;
+}
+.language{
+	width: 70px;
+	margin-left: 1%;
+}
+.hobby{
+	width: 110px;
+	margin-left: 1px;
+	margin-top: 2%;
+}
+.pro{
+	width: 100px;
+	height: 100px;
+	margin-top: 2%;
+}
+.ref{
+	margin-top: 10%;
+}
+.lastheader{
+	width: 300px;
+	margin: auto;
+}
+.contact{
+	width: 80px;
+	height: 80px;
+	margin-top: 5%;
+	margin-right: 6%;
+	margin-left: 6%;
+}
+.aa{
+	padding-bottom: 3%;
+}
